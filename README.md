@@ -43,3 +43,6 @@
 ## Fonts
 + **SF Pro Display**	- GUI/GTK
 + ~~**Fira Code**		- i3 and terminal~~
+
+## Screenshot
+![Clean](screenshot_20191007_133553.png)
