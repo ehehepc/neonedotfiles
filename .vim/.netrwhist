@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/bwaiwnl/.config/systemd/user/default.target.wants'
+let g:netrw_dirhist_2='/home/bwaiwnl/.config/rofi/themes/gruvbox'
+let g:netrw_dirhist_3='/home/bwaiwnl/.config/systemd/user/default.target.wants'
+let g:netrw_dirhist_4='/home/bwaiwnl/.config/cmus'
+let g:netrw_dirhist_5='/home/bwaiwnl/.config'
+let g:netrw_dirhist_6='/home/bwaiwnl/.config/dunst'

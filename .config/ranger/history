@@ -1,0 +1,23 @@
+search wlan
+ren
+rename
+rename orange_wallpaper.jpg
+search bookmaker
+help
+colorscheme gruvbox
+ColorScheme gruvbox
+search dunst
+search ranger
+set colorscheme default
+search
+set colorscheme jujngle
+set colorscheme solarized
+set colorscheme jungle
+set colorscheme snow
+set colorscheme gruvbox
+open_with 
+delete
+qa!
+h
+hidden
+
