@@ -1,5 +1,5 @@
 ## Some installed software
-+ **~~i3-gaps/~~bspwm**	- Window manager
++ **~~i3-gaps~~/bspwm**	- Window manager
 + **sxhkd**		- Keyboard shortcut for bspwm
 + **compton**		- Compositor window (from tryone144 fork)
 + **polybar**		- Status bar
@@ -11,7 +11,7 @@
 + **cava**		- Audio visualizer
 + **ranger**		- File manager CLI
 + **zathura**		- Document viewer
-+ **~~gThumb/~~viewnior**	- Picture viewer
++ **~~gThumb~~/viewnior**	- Picture viewer
 + **vim**		- Text editor
 + **neofetch**		- System information
 + **vtop**		- Task manager
